@@ -1,0 +1,13 @@
+var username = ("saadullah")
+alert(username)
+var age = 18
+alert(age) 
+var email=(" sadullah3@gamil.com")
+var g = ("my email is " )
+alert(g + email)
+var design=("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”")
+alert(design)
+var book= ("a smarter way to learn JavaScript”.")
+alert(book)
+var saad= ("my namr is saadullah")
+document.write(saad)
